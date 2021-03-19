@@ -15,22 +15,22 @@ function App() {
           <ul className="nav nav-tabs">
             <li className="nav-item">
               <NavLink to="/animal/meowsalot" className="nav-link" activeClassName="active">
-                Meowsalot
+                Home
               </NavLink>
             </li>
             <li className="nav-item">
               <NavLink to="/animal/barksalot" className="nav-link" activeClassName="active">
-                Barksalot
+                About
               </NavLink>
             </li>
             <li className="nav-item">
               <NavLink to="/animal/purrsloud" className="nav-link" activeClassName="active">
-                Purrsloud
+                Products
               </NavLink>
             </li>
             <li className="nav-item">
               <NavLink to="/secret" className="nav-link" activeClassName="active">
-                Secret
+               Login
               </NavLink>
             </li>
           </ul>

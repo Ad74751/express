@@ -26,7 +26,7 @@ function Animal(props) {
   if (isLoading) {
     return (
       <div className="row">
-        <p class="text-center py-5">...</p>
+        <p class="text-center py-5">Loading...</p>
       </div>
     )
   }
